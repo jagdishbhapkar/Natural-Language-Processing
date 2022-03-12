@@ -1,0 +1,2 @@
+# Natural-Language-Processing
+This is a natural language processing based project,where I have tried to review amazon  comment on product .The aim of project is to help seller to improve service of product  based on feeback of users. Objective: Based on 10,000 reviews Build model which will determine overall Positive or  Negative Response of customer.  Process: After Text Processing I used Countvectorizer.(NLP)  Results: Naive Bayes Classifier gave best Accuracy of 97.32% and it is 13% more  compared to Decision Tree Classifier.
